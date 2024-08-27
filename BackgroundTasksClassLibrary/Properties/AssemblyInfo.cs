@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные со сборкой.
-[assembly: AssemblyTitle("BackgroundTasksClassLibrary")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Ga.Personal.BackgroundTasks.ClassLibrary")]
+[assembly: AssemblyDescription("Sample of Background tasks windows service class library")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("BackgroundTasksClassLibrary")]
-[assembly: AssemblyCopyright("Copyright ©  2024")]
+[assembly: AssemblyCompany("GA Personal")]
+[assembly: AssemblyProduct("Sample of Background tasks windows service class library")]
+[assembly: AssemblyCopyright("Copyright © 2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
