@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // общие сведения об этой сборке.
-[assembly: AssemblyTitle("GA.Personal.BackgroundTasksWindowsService")]
+[assembly: AssemblyTitle("GA.Personal.BackgroundTasks.WindowsService")]
 [assembly: AssemblyDescription("Sample of Background tasks windows service")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("GA Personal")]

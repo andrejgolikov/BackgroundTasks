@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{F09B2122-8ABA-4DF1-8577-C66C89996CE3}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Ga.Personal.BackgroundTasksWindowsService</RootNamespace>
-    <AssemblyName>GA.Personal.BackgroundTasksWindowsService</AssemblyName>
+    <RootNamespace>GA.Personal.BackgroundTasks.WindowsService</RootNamespace>
+    <AssemblyName>GA.Personal.BackgroundTasks.WindowsService</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -49,7 +49,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Ga.Personal.BackgroundTasksWindowsService.Program</StartupObject>
+    <StartupObject>Ga.Personal.BackgroundTasks.WindowsService.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

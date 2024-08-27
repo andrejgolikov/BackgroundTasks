@@ -1,4 +1,4 @@
-﻿namespace Ga.Personal.BackgroundTasksWindowsService
+﻿namespace Ga.Personal.BackgroundTasks.WindowsService
 {
     partial class Service
     {

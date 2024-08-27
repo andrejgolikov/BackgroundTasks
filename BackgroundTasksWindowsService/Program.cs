@@ -5,7 +5,7 @@ using System.ServiceProcess;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ga.Personal.BackgroundTasksWindowsService
+namespace Ga.Personal.BackgroundTasks.WindowsService
 {
     internal static class Program
     {
