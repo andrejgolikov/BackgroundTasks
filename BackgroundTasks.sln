@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundTasksWindowsService", "BackgroundTasksWindowsService\BackgroundTasksWindowsService.csproj", "{F09B2122-8ABA-4DF1-8577-C66C89996CE3}"
+	ProjectSection(ProjectDependencies) = postProject
+		{E2A9836D-AF35-42A5-AF20-6E5B509C258C} = {E2A9836D-AF35-42A5-AF20-6E5B509C258C}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundTasksClassLibrary", "BackgroundTasksClassLibrary\BackgroundTasksClassLibrary.csproj", "{E2A9836D-AF35-42A5-AF20-6E5B509C258C}"
 EndProject
