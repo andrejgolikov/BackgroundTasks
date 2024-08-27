@@ -86,5 +86,11 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BackgroundTasksClassLibrary\BackgroundTasksClassLibrary.csproj">
+      <Project>{e2a9836d-af35-42a5-af20-6e5b509c258c}</Project>
+      <Name>BackgroundTasksClassLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
