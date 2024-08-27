@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundTasksWindowsService", "BackgroundTasksWindowsService\BackgroundTasksWindowsService.csproj", "{F09B2122-8ABA-4DF1-8577-C66C89996CE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F09B2122-8ABA-4DF1-8577-C66C89996CE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F09B2122-8ABA-4DF1-8577-C66C89996CE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F09B2122-8ABA-4DF1-8577-C66C89996CE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F09B2122-8ABA-4DF1-8577-C66C89996CE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DF66467-569F-4290-BAC4-DB7362687A7F}
+	EndGlobalSection
+EndGlobal
