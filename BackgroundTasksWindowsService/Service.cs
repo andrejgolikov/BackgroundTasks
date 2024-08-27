@@ -8,11 +8,11 @@ using System.ServiceProcess;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BackgroundTasksWindowsService
+namespace Ga.Personal.BackgroundTasksWindowsService
 {
-    public partial class Service1 : ServiceBase
+    public partial class Service : ServiceBase
     {
-        public Service1()
+        public Service()
         {
             InitializeComponent();
         }

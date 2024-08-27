@@ -1,6 +1,6 @@
-﻿namespace BackgroundTasksWindowsService
+﻿namespace Ga.Personal.BackgroundTasksWindowsService
 {
-    partial class Service1
+    partial class Service
     {
         /// <summary> 
         /// Обязательная переменная конструктора.

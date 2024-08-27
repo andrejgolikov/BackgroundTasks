@@ -5,7 +5,7 @@ using System.ServiceProcess;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BackgroundTasksWindowsService
+namespace Ga.Personal.BackgroundTasksWindowsService
 {
     internal static class Program
     {
@@ -17,7 +17,7 @@ namespace BackgroundTasksWindowsService
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
-                new Service1()
+                new Service()
             };
             ServiceBase.Run(ServicesToRun);
         }
